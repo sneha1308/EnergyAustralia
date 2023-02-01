@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicFestival</string>
+    <string name="too_many_requests">HTTP 429 Too Many Requests</string>
+    <string name="error_message">Expected BEGIN_ARRAY but was STRING at line 1 column 2 path $</string>
+</resources>
